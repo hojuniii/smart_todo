@@ -1,5 +1,5 @@
 # smart_todo
 
-![image](https://github.com/hojuniii/flutter_project/blob/master/smart_todo/smart_todo_1.PNG?raw=true)
+![image](smart_todo_1.png)
 
 copyright (c) Designed by Zazuly Aziz
